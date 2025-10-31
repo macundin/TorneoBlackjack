@@ -42,6 +42,5 @@ public class Baraja {
 		}
 		Collections.shuffle(baraja);
 	}
-	
 
 }
